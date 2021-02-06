@@ -20,6 +20,7 @@ show_reading_time = false
 
 home = "recipes"
 sam_menu = [
-    { text = "baking", link = "/baking" }
+    { text = "baking", link = "/baking" },
+    { text = "miscellaneous", link = "/misc" }
 ]
 date_format = "%a %b %e, %Y"
