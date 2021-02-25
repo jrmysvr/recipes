@@ -1,6 +1,31 @@
 +++
 title = "Churros"
 +++
+
+Trial 2
+
+Batter
+
+| (Zopf) Flour  | Butter   | Milk    | Sugar   | Egg   | Salt     |
+| :-----------: | :------: | :-----: | :-----: | :---: | :------: |
+| 400g          | 75g      | 2.5dl   | 45g     | 3     | 2g       |
+
+Coating
+ - Sugar, salt, cinnamon to taste
+ - No measurements taken
+
+Other
+ - Vegetable oil or Sunflower Seed Oil
+    - The amount depends on your pan. Enough oil is needed to "mostly" cover the churros.
+
+**Notes:**
+ - The baking powder helped, but the fluffiness level still needs improvement.
+ - The consistency of the batter was much "stickier". This resulted in a better churro. Try making it yet a little more viscous?
+
+_Best proportions - TBD_
+
+---
+
 Trial 1
 
 Batter
@@ -22,7 +47,6 @@ Other
  - Perhaps some baking powder could be added to increase fluffiness
  - Increasing churro diameter made for a better churro
 
-_Best proportions - TBD_
 
 ---
 * Melt or soften butter
