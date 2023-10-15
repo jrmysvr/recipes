@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://recipes.savor.page/sitemap.xml
