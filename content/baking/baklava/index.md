@@ -1,6 +1,9 @@
 +++
 title = "Baklava"
 +++
+
+![baklava](baklava.jpeg)
+
 # Proportions
 
 ## Nut Mixture
